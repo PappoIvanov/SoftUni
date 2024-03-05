@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumator", "Sumator\Sumator.csproj", "{ECD5DF13-4275-4B84-BFCC-E90FE761D163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD5DF13-4275-4B84-BFCC-E90FE761D163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD5DF13-4275-4B84-BFCC-E90FE761D163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD5DF13-4275-4B84-BFCC-E90FE761D163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD5DF13-4275-4B84-BFCC-E90FE761D163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACF4B4EE-22AF-4D50-8C64-28CBE35F8F37}
+	EndGlobalSection
+EndGlobal
